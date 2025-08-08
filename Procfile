@@ -1,0 +1,1 @@
+web: gunicorn product_list.wsgi
